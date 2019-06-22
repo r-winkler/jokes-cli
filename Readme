@@ -1,0 +1,11 @@
+execute like this
+
+node . -n Rene
+
+or install it globally
+
+npm install -g .
+
+and run in terminal
+
+joke -n Rene

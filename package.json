@@ -10,9 +10,10 @@
   "author": "",
   "license": "ISC",
   "bin": {
-    "hello": "./bin/index.js"
+    "joke": "./bin/index.js"
   },
   "dependencies": {
+    "axios": "^0.19.0",
     "boxen": "^4.0.0",
     "chalk": "^2.4.2",
     "yargs": "^13.2.4"
